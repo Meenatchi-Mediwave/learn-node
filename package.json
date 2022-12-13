@@ -1,0 +1,23 @@
+{
+  "name": "learn-node",
+  "version": "0.0.1",
+  "description": "learning js",
+  "main": "app/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Meenatchi-Mediwave/learn-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meenatchi-Mediwave/learn-node/issues"
+  },
+  "homepage": "https://github.com/Meenatchi-Mediwave/learn-node#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
