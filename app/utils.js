@@ -17,9 +17,7 @@ function getNumbers() {
         numbers[1] = num;
       }
     }
-    if (thirdArg == " " && fourthArg == " ") {
-      console.log(numbers);
-    }
+
     // const str = " ";
     // if (thirdArg == str(thirdArg)) {
     //   return 0;
